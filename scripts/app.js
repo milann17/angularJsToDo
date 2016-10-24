@@ -12,7 +12,7 @@ angular.module("todoListApp", ['ui.router'])
 
         .state('about', {
         url: '/about',
-        templateUrl: 'templates/two.html'
+        templateUrl: '/'
         });
     })
 
